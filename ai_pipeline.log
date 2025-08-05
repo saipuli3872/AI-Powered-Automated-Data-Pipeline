@@ -1,0 +1,7 @@
+2025-08-04 19:18:37,080 - __main__ - INFO - Logging level set to INFO
+2025-08-04 19:18:59,515 - __main__ - INFO - Logging level set to INFO
+2025-08-04 19:18:59,516 - __main__ - INFO - Checking environment configuration...
+2025-08-04 19:18:59,516 - __main__ - INFO - Environment check passed
+2025-08-04 19:19:10,725 - __main__ - INFO - Logging level set to INFO
+2025-08-04 19:19:10,726 - __main__ - INFO - Generating sample data...
+2025-08-04 19:19:12,059 - __main__ - INFO - Sample data generation completed successfully

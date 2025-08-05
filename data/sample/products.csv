@@ -1,0 +1,201 @@
+product_id,product_name,category,brand,description,price,cost,weight_kg,dimensions,stock_quantity,reorder_level,supplier_id,is_active,created_at,updated_at
+PROD_000001,Health Item 1,Health,BrandC,High-quality health product with excellent features,156.15,337.97,44.48,48x39x31 cm,368,65,SUPP_006,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000002,Clothing Item 2,Clothing,BrandC,High-quality clothing product with excellent features,925.46,324.5,22.59,39x48x15 cm,911,15,SUPP_022,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000003,Sports Item 3,Sports,BrandC,High-quality sports product with excellent features,544.8,416.85,8.06,41x13x18 cm,844,98,SUPP_026,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000004,Health Item 4,Health,BrandD,High-quality health product with excellent features,881.91,495.3,27.25,38x11x41 cm,4,42,SUPP_036,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000005,Toys Item 5,Toys,BrandB,High-quality toys product with excellent features,687.16,394.92,24.51,25x28x40 cm,959,60,SUPP_034,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000006,Clothing Item 6,Clothing,BrandE,High-quality clothing product with excellent features,357.61,206.96,37.6,11x19x45 cm,659,68,SUPP_010,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000007,Toys Item 7,Toys,BrandA,High-quality toys product with excellent features,894.24,484.79,40.02,36x14x9 cm,711,49,SUPP_016,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000008,Home & Garden Item 8,Home & Garden,BrandB,High-quality home & garden product with excellent features,546.54,52.81,40.74,6x6x6 cm,302,25,SUPP_014,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000009,Health Item 9,Health,Generic,High-quality health product with excellent features,80.61,130.45,47.56,32x27x47 cm,412,11,SUPP_045,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000010,Home & Garden Item 10,Home & Garden,BrandD,High-quality home & garden product with excellent features,381.16,155.37,31.0,35x45x44 cm,607,15,SUPP_044,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000011,Electronics Item 11,Electronics,BrandD,High-quality electronics product with excellent features,326.43,20.36,35.06,29x39x11 cm,432,98,SUPP_038,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000012,Toys Item 12,Toys,BrandD,High-quality toys product with excellent features,994.68,193.08,48.14,10x35x21 cm,556,21,SUPP_006,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000013,Toys Item 13,Toys,Generic,High-quality toys product with excellent features,634.98,51.53,19.05,26x20x43 cm,480,14,SUPP_021,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000014,Sports Item 14,Sports,Generic,High-quality sports product with excellent features,856.09,112.19,20.59,5x48x13 cm,607,96,SUPP_050,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000015,Sports Item 15,Sports,BrandD,High-quality sports product with excellent features,78.4,94.71,13.81,41x29x39 cm,669,16,SUPP_017,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000016,Toys Item 16,Toys,BrandE,High-quality toys product with excellent features,496.18,451.62,14.74,15x7x23 cm,615,52,SUPP_028,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000017,Toys Item 17,Toys,BrandB,High-quality toys product with excellent features,968.87,43.03,24.16,20x5x29 cm,794,93,SUPP_012,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000018,Electronics Item 18,Electronics,BrandC,High-quality electronics product with excellent features,190.84,173.33,34.18,36x19x50 cm,455,99,SUPP_008,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000019,Clothing Item 19,Clothing,BrandB,High-quality clothing product with excellent features,140.67,489.5,30.3,6x33x36 cm,375,99,SUPP_028,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000020,Toys Item 20,Toys,BrandE,High-quality toys product with excellent features,898.7,187.3,27.22,31x35x7 cm,285,65,SUPP_036,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000021,Electronics Item 21,Electronics,BrandA,High-quality electronics product with excellent features,96.36,439.5,33.27,35x30x37 cm,941,41,SUPP_009,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000022,Electronics Item 22,Electronics,BrandB,High-quality electronics product with excellent features,95.5,97.46,9.91,47x39x28 cm,570,43,SUPP_031,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000023,Health Item 23,Health,Generic,High-quality health product with excellent features,193.65,209.56,28.03,19x17x14 cm,307,27,SUPP_048,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000024,Electronics Item 24,Electronics,BrandC,High-quality electronics product with excellent features,69.38,395.1,5.73,47x22x42 cm,543,11,SUPP_020,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000025,Home & Garden Item 25,Home & Garden,BrandB,High-quality home & garden product with excellent features,861.97,401.61,9.51,35x35x35 cm,219,22,SUPP_012,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000026,Sports Item 26,Sports,Generic,High-quality sports product with excellent features,630.75,430.05,3.64,47x13x37 cm,148,18,SUPP_031,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000027,Sports Item 27,Sports,BrandB,High-quality sports product with excellent features,254.59,377.94,42.0,28x19x21 cm,416,17,SUPP_049,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000028,Electronics Item 28,Electronics,BrandC,High-quality electronics product with excellent features,782.82,18.69,33.62,28x30x33 cm,620,38,SUPP_048,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000029,Books Item 29,Books,BrandE,High-quality books product with excellent features,949.88,257.23,20.39,45x15x20 cm,613,76,SUPP_019,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000030,Health Item 30,Health,BrandA,High-quality health product with excellent features,438.4,20.3,3.41,10x50x14 cm,791,92,SUPP_003,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000031,Home & Garden Item 31,Home & Garden,BrandD,High-quality home & garden product with excellent features,288.02,326.83,49.34,26x24x39 cm,619,51,SUPP_020,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000032,Sports Item 32,Sports,BrandD,High-quality sports product with excellent features,392.22,436.22,34.45,49x40x48 cm,619,86,SUPP_043,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000033,Books Item 33,Books,BrandC,High-quality books product with excellent features,100.07,247.39,17.19,38x44x45 cm,64,42,SUPP_041,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000034,Home & Garden Item 34,Home & Garden,BrandC,High-quality home & garden product with excellent features,598.48,117.78,46.35,25x20x41 cm,195,54,SUPP_020,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000035,Health Item 35,Health,BrandC,High-quality health product with excellent features,522.49,208.71,13.27,32x47x47 cm,192,88,SUPP_009,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000036,Clothing Item 36,Clothing,Generic,High-quality clothing product with excellent features,689.11,357.75,27.69,18x34x42 cm,532,32,SUPP_008,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000037,Toys Item 37,Toys,BrandB,High-quality toys product with excellent features,213.67,396.02,41.54,16x46x36 cm,383,41,SUPP_026,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000038,Toys Item 38,Toys,BrandC,High-quality toys product with excellent features,933.15,232.24,17.14,21x43x9 cm,258,25,SUPP_025,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000039,Electronics Item 39,Electronics,BrandA,High-quality electronics product with excellent features,197.03,467.39,46.4,34x40x42 cm,840,45,SUPP_033,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000040,Clothing Item 40,Clothing,BrandC,High-quality clothing product with excellent features,60.47,216.72,49.09,43x11x35 cm,447,59,SUPP_021,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000041,Clothing Item 41,Clothing,BrandB,High-quality clothing product with excellent features,131.68,381.26,49.71,7x9x22 cm,110,80,SUPP_035,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000042,Clothing Item 42,Clothing,BrandA,High-quality clothing product with excellent features,926.48,344.93,10.32,47x41x8 cm,10,24,SUPP_022,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000043,Home & Garden Item 43,Home & Garden,BrandD,High-quality home & garden product with excellent features,248.26,114.12,30.22,22x40x27 cm,860,40,SUPP_010,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000044,Sports Item 44,Sports,BrandE,High-quality sports product with excellent features,323.54,113.84,40.3,29x18x39 cm,631,12,SUPP_011,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000045,Sports Item 45,Sports,Generic,High-quality sports product with excellent features,617.98,487.17,40.5,12x11x20 cm,865,62,SUPP_015,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000046,Books Item 46,Books,BrandE,High-quality books product with excellent features,173.98,90.9,11.1,11x5x20 cm,687,49,SUPP_028,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000047,Books Item 47,Books,BrandB,High-quality books product with excellent features,239.85,424.4,20.49,33x33x14 cm,756,59,SUPP_040,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000048,Electronics Item 48,Electronics,BrandE,High-quality electronics product with excellent features,767.4,106.54,33.7,32x38x26 cm,329,12,SUPP_032,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000049,Health Item 49,Health,BrandD,High-quality health product with excellent features,610.48,189.62,35.2,43x49x48 cm,386,31,SUPP_026,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000050,Clothing Item 50,Clothing,BrandC,High-quality clothing product with excellent features,359.72,140.7,35.78,19x29x43 cm,898,70,SUPP_002,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000051,Toys Item 51,Toys,Generic,High-quality toys product with excellent features,74.04,357.97,1.19,41x27x28 cm,390,12,SUPP_032,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000052,Toys Item 52,Toys,BrandD,High-quality toys product with excellent features,910.09,49.28,12.82,19x22x28 cm,933,43,SUPP_031,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000053,Clothing Item 53,Clothing,BrandB,High-quality clothing product with excellent features,855.1,324.28,30.0,17x7x29 cm,373,16,SUPP_049,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000054,Electronics Item 54,Electronics,Generic,High-quality electronics product with excellent features,916.68,50.73,34.8,8x21x10 cm,537,42,SUPP_029,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000055,Home & Garden Item 55,Home & Garden,BrandB,High-quality home & garden product with excellent features,859.91,142.86,45.81,19x31x24 cm,170,76,SUPP_005,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000056,Health Item 56,Health,BrandA,High-quality health product with excellent features,624.73,288.44,39.18,16x23x40 cm,481,64,SUPP_011,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000057,Electronics Item 57,Electronics,BrandB,High-quality electronics product with excellent features,606.6,43.14,38.66,22x16x39 cm,127,69,SUPP_036,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000058,Toys Item 58,Toys,BrandB,High-quality toys product with excellent features,161.18,466.41,12.36,5x25x15 cm,784,44,SUPP_033,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000059,Sports Item 59,Sports,BrandE,High-quality sports product with excellent features,895.88,199.93,8.43,35x14x13 cm,247,87,SUPP_024,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000060,Books Item 60,Books,BrandB,High-quality books product with excellent features,460.38,356.55,35.7,15x45x43 cm,772,15,SUPP_005,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000061,Clothing Item 61,Clothing,BrandA,High-quality clothing product with excellent features,294.32,266.8,24.55,30x40x39 cm,743,61,SUPP_034,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000062,Toys Item 62,Toys,BrandE,High-quality toys product with excellent features,360.39,304.73,35.95,30x21x38 cm,959,62,SUPP_011,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000063,Clothing Item 63,Clothing,BrandA,High-quality clothing product with excellent features,214.81,301.9,18.44,24x12x43 cm,925,62,SUPP_025,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000064,Home & Garden Item 64,Home & Garden,BrandC,High-quality home & garden product with excellent features,33.63,246.17,37.54,18x32x45 cm,768,28,SUPP_029,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000065,Toys Item 65,Toys,BrandC,High-quality toys product with excellent features,402.39,75.45,45.04,33x21x36 cm,408,69,SUPP_046,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000066,Home & Garden Item 66,Home & Garden,BrandB,High-quality home & garden product with excellent features,468.66,210.82,2.66,14x45x11 cm,302,57,SUPP_004,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000067,Books Item 67,Books,BrandD,High-quality books product with excellent features,888.17,436.7,4.0,23x27x37 cm,564,71,SUPP_003,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000068,Electronics Item 68,Electronics,BrandC,High-quality electronics product with excellent features,338.13,158.62,25.39,5x11x14 cm,762,81,SUPP_018,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000069,Electronics Item 69,Electronics,BrandE,High-quality electronics product with excellent features,226.5,262.94,1.3,30x26x44 cm,471,54,SUPP_040,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000070,Home & Garden Item 70,Home & Garden,BrandC,High-quality home & garden product with excellent features,60.4,260.91,6.25,33x36x32 cm,781,75,SUPP_003,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000071,Clothing Item 71,Clothing,BrandD,High-quality clothing product with excellent features,336.84,358.56,36.6,45x22x14 cm,145,35,SUPP_006,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000072,Home & Garden Item 72,Home & Garden,BrandD,High-quality home & garden product with excellent features,228.03,26.79,0.7,13x17x31 cm,582,34,SUPP_027,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000073,Books Item 73,Books,BrandE,High-quality books product with excellent features,572.49,495.26,10.61,9x15x7 cm,271,71,SUPP_005,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000074,Books Item 74,Books,BrandB,High-quality books product with excellent features,925.56,249.27,4.09,34x26x44 cm,745,57,SUPP_031,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000075,Sports Item 75,Sports,BrandE,High-quality sports product with excellent features,552.44,451.16,37.13,45x47x25 cm,539,29,SUPP_043,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000076,Health Item 76,Health,BrandE,High-quality health product with excellent features,780.5,126.42,40.77,32x35x22 cm,336,75,SUPP_020,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000077,Toys Item 77,Toys,BrandD,High-quality toys product with excellent features,60.76,297.89,40.1,21x11x14 cm,568,38,SUPP_015,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000078,Books Item 78,Books,BrandB,High-quality books product with excellent features,926.78,350.2,25.34,31x30x31 cm,580,52,SUPP_020,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000079,Clothing Item 79,Clothing,BrandB,High-quality clothing product with excellent features,626.82,474.5,33.18,25x8x32 cm,415,65,SUPP_010,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000080,Books Item 80,Books,BrandA,High-quality books product with excellent features,340.44,188.34,15.47,36x36x30 cm,602,37,SUPP_026,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000081,Health Item 81,Health,BrandB,High-quality health product with excellent features,293.59,307.23,8.33,15x43x25 cm,607,58,SUPP_006,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000082,Electronics Item 82,Electronics,BrandA,High-quality electronics product with excellent features,798.22,9.2,27.06,36x10x49 cm,663,29,SUPP_004,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000083,Books Item 83,Books,BrandB,High-quality books product with excellent features,42.35,149.25,42.19,48x48x49 cm,365,95,SUPP_037,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000084,Electronics Item 84,Electronics,BrandB,High-quality electronics product with excellent features,893.94,168.42,2.04,42x10x7 cm,629,10,SUPP_013,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000085,Books Item 85,Books,BrandD,High-quality books product with excellent features,116.45,298.72,30.81,38x9x44 cm,291,27,SUPP_005,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000086,Sports Item 86,Sports,BrandC,High-quality sports product with excellent features,165.81,389.16,25.79,36x43x19 cm,705,46,SUPP_003,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000087,Health Item 87,Health,BrandC,High-quality health product with excellent features,668.35,348.98,40.53,27x37x24 cm,300,93,SUPP_046,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000088,Books Item 88,Books,BrandB,High-quality books product with excellent features,796.3,424.33,33.35,18x20x34 cm,152,100,SUPP_010,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000089,Electronics Item 89,Electronics,BrandA,High-quality electronics product with excellent features,591.8,63.27,5.47,33x13x14 cm,740,19,SUPP_019,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000090,Toys Item 90,Toys,BrandC,High-quality toys product with excellent features,583.47,360.73,21.82,12x46x47 cm,965,95,SUPP_036,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000091,Toys Item 91,Toys,BrandB,High-quality toys product with excellent features,896.62,329.81,18.27,30x17x27 cm,67,16,SUPP_003,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000092,Books Item 92,Books,BrandB,High-quality books product with excellent features,814.38,234.43,48.33,50x25x33 cm,136,51,SUPP_048,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000093,Toys Item 93,Toys,BrandC,High-quality toys product with excellent features,958.47,377.0,43.42,16x5x15 cm,977,42,SUPP_027,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000094,Books Item 94,Books,BrandC,High-quality books product with excellent features,156.68,442.69,12.08,43x36x22 cm,929,35,SUPP_047,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000095,Books Item 95,Books,BrandA,High-quality books product with excellent features,773.14,317.61,35.6,44x28x26 cm,2,23,SUPP_031,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000096,Clothing Item 96,Clothing,BrandB,High-quality clothing product with excellent features,339.18,331.04,36.85,37x22x38 cm,400,77,SUPP_038,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000097,Books Item 97,Books,Generic,High-quality books product with excellent features,802.27,230.2,35.98,40x23x39 cm,773,68,SUPP_003,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000098,Home & Garden Item 98,Home & Garden,BrandA,High-quality home & garden product with excellent features,413.25,315.39,39.61,35x31x34 cm,936,87,SUPP_037,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000099,Home & Garden Item 99,Home & Garden,BrandE,High-quality home & garden product with excellent features,230.66,136.03,44.59,7x19x47 cm,926,84,SUPP_017,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000100,Home & Garden Item 100,Home & Garden,BrandA,High-quality home & garden product with excellent features,535.43,25.07,47.61,33x20x30 cm,2,65,SUPP_004,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000101,Health Item 101,Health,BrandC,High-quality health product with excellent features,539.9,450.25,47.0,6x37x45 cm,806,49,SUPP_050,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000102,Books Item 102,Books,BrandE,High-quality books product with excellent features,221.27,332.34,14.45,12x20x29 cm,574,52,SUPP_012,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000103,Electronics Item 103,Electronics,Generic,High-quality electronics product with excellent features,435.2,167.74,12.36,35x6x11 cm,132,43,SUPP_011,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000104,Toys Item 104,Toys,BrandC,High-quality toys product with excellent features,421.41,453.45,10.28,15x28x11 cm,783,46,SUPP_020,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000105,Electronics Item 105,Electronics,BrandB,High-quality electronics product with excellent features,874.48,427.25,0.27,20x9x22 cm,988,32,SUPP_008,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000106,Home & Garden Item 106,Home & Garden,BrandA,High-quality home & garden product with excellent features,505.45,418.42,26.78,37x12x35 cm,684,88,SUPP_018,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000107,Home & Garden Item 107,Home & Garden,BrandA,High-quality home & garden product with excellent features,359.7,197.0,9.55,21x6x44 cm,823,21,SUPP_005,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000108,Clothing Item 108,Clothing,BrandC,High-quality clothing product with excellent features,168.73,408.53,26.79,35x45x27 cm,30,53,SUPP_025,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000109,Electronics Item 109,Electronics,BrandE,High-quality electronics product with excellent features,778.09,204.22,8.46,44x45x35 cm,792,85,SUPP_048,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000110,Toys Item 110,Toys,BrandB,High-quality toys product with excellent features,836.16,467.23,39.06,40x34x29 cm,329,92,SUPP_024,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000111,Electronics Item 111,Electronics,BrandA,High-quality electronics product with excellent features,458.37,6.84,17.84,47x28x46 cm,346,63,SUPP_048,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000112,Home & Garden Item 112,Home & Garden,BrandD,High-quality home & garden product with excellent features,94.36,422.3,29.77,40x12x42 cm,139,70,SUPP_032,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000113,Electronics Item 113,Electronics,BrandE,High-quality electronics product with excellent features,812.71,394.14,31.94,20x24x39 cm,841,64,SUPP_019,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000114,Health Item 114,Health,BrandA,High-quality health product with excellent features,64.35,153.6,48.21,13x49x21 cm,835,58,SUPP_010,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000115,Home & Garden Item 115,Home & Garden,BrandD,High-quality home & garden product with excellent features,981.49,487.69,18.25,36x24x24 cm,416,12,SUPP_002,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000116,Home & Garden Item 116,Home & Garden,BrandB,High-quality home & garden product with excellent features,714.67,435.4,46.58,43x43x11 cm,371,24,SUPP_007,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000117,Health Item 117,Health,BrandC,High-quality health product with excellent features,325.12,66.24,28.86,42x10x19 cm,50,45,SUPP_020,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000118,Health Item 118,Health,Generic,High-quality health product with excellent features,553.44,290.79,34.56,24x40x47 cm,304,22,SUPP_026,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000119,Home & Garden Item 119,Home & Garden,BrandD,High-quality home & garden product with excellent features,102.03,169.97,37.08,13x9x11 cm,971,85,SUPP_001,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000120,Books Item 120,Books,BrandA,High-quality books product with excellent features,474.52,183.76,27.14,21x15x42 cm,962,81,SUPP_016,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000121,Home & Garden Item 121,Home & Garden,BrandB,High-quality home & garden product with excellent features,193.27,459.49,35.06,11x45x6 cm,481,37,SUPP_047,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000122,Clothing Item 122,Clothing,Generic,High-quality clothing product with excellent features,957.71,432.59,25.53,31x5x48 cm,535,44,SUPP_037,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000123,Books Item 123,Books,BrandE,High-quality books product with excellent features,245.52,217.71,30.7,29x17x38 cm,299,54,SUPP_009,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000124,Sports Item 124,Sports,BrandD,High-quality sports product with excellent features,911.63,147.39,12.53,12x50x31 cm,261,92,SUPP_039,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000125,Electronics Item 125,Electronics,BrandA,High-quality electronics product with excellent features,411.48,99.63,12.72,13x41x16 cm,833,92,SUPP_038,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000126,Toys Item 126,Toys,BrandB,High-quality toys product with excellent features,141.11,24.9,49.91,7x9x48 cm,404,27,SUPP_014,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000127,Electronics Item 127,Electronics,BrandE,High-quality electronics product with excellent features,12.78,109.05,5.63,49x5x31 cm,109,53,SUPP_014,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000128,Clothing Item 128,Clothing,BrandB,High-quality clothing product with excellent features,727.06,393.87,43.45,25x31x29 cm,675,76,SUPP_044,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000129,Books Item 129,Books,Generic,High-quality books product with excellent features,209.52,319.35,10.42,27x17x47 cm,878,94,SUPP_016,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000130,Books Item 130,Books,BrandC,High-quality books product with excellent features,443.07,129.8,21.72,15x8x8 cm,766,68,SUPP_034,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000131,Clothing Item 131,Clothing,BrandD,High-quality clothing product with excellent features,119.3,147.17,14.24,16x32x5 cm,484,77,SUPP_005,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000132,Home & Garden Item 132,Home & Garden,BrandC,High-quality home & garden product with excellent features,647.8,227.42,34.45,22x35x29 cm,276,30,SUPP_031,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000133,Books Item 133,Books,BrandB,High-quality books product with excellent features,26.96,121.04,24.35,19x40x37 cm,657,28,SUPP_008,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000134,Toys Item 134,Toys,BrandC,High-quality toys product with excellent features,526.8,346.5,13.66,47x38x24 cm,764,61,SUPP_002,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000135,Sports Item 135,Sports,BrandA,High-quality sports product with excellent features,248.8,144.99,40.5,47x40x44 cm,588,77,SUPP_012,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000136,Sports Item 136,Sports,BrandA,High-quality sports product with excellent features,157.6,14.69,38.45,40x31x41 cm,349,10,SUPP_031,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000137,Clothing Item 137,Clothing,BrandA,High-quality clothing product with excellent features,735.28,361.84,21.3,49x22x42 cm,204,90,SUPP_026,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000138,Electronics Item 138,Electronics,BrandD,High-quality electronics product with excellent features,477.13,102.15,12.32,7x26x27 cm,482,40,SUPP_035,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000139,Books Item 139,Books,BrandB,High-quality books product with excellent features,436.5,283.41,34.52,11x41x13 cm,236,62,SUPP_003,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000140,Books Item 140,Books,BrandD,High-quality books product with excellent features,539.62,370.61,5.22,40x33x50 cm,138,38,SUPP_048,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000141,Clothing Item 141,Clothing,BrandC,High-quality clothing product with excellent features,105.88,131.95,45.92,31x12x22 cm,658,85,SUPP_029,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000142,Electronics Item 142,Electronics,BrandC,High-quality electronics product with excellent features,924.32,307.83,4.77,21x43x39 cm,764,90,SUPP_049,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000143,Electronics Item 143,Electronics,BrandD,High-quality electronics product with excellent features,692.1,272.83,32.9,49x5x36 cm,836,37,SUPP_027,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000144,Electronics Item 144,Electronics,BrandA,High-quality electronics product with excellent features,508.65,118.52,28.83,5x32x49 cm,357,55,SUPP_049,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000145,Sports Item 145,Sports,Generic,High-quality sports product with excellent features,172.64,370.76,49.04,41x6x47 cm,281,34,SUPP_012,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000146,Clothing Item 146,Clothing,Generic,High-quality clothing product with excellent features,54.74,93.8,41.38,17x13x23 cm,471,17,SUPP_043,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000147,Clothing Item 147,Clothing,BrandE,High-quality clothing product with excellent features,143.16,63.35,45.62,18x28x45 cm,774,48,SUPP_044,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000148,Clothing Item 148,Clothing,Generic,High-quality clothing product with excellent features,72.63,451.07,23.74,5x15x28 cm,35,78,SUPP_012,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000149,Electronics Item 149,Electronics,BrandA,High-quality electronics product with excellent features,766.76,109.83,7.77,11x32x19 cm,716,31,SUPP_018,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000150,Books Item 150,Books,BrandB,High-quality books product with excellent features,830.48,299.16,33.06,18x33x32 cm,176,88,SUPP_029,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000151,Home & Garden Item 151,Home & Garden,BrandC,High-quality home & garden product with excellent features,610.21,463.48,39.94,6x17x30 cm,302,58,SUPP_050,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000152,Electronics Item 152,Electronics,BrandE,High-quality electronics product with excellent features,124.18,348.79,45.05,19x49x39 cm,972,24,SUPP_036,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000153,Books Item 153,Books,Generic,High-quality books product with excellent features,584.85,370.12,6.85,38x16x39 cm,896,39,SUPP_009,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000154,Electronics Item 154,Electronics,BrandE,High-quality electronics product with excellent features,859.71,274.12,3.8,39x40x10 cm,347,77,SUPP_035,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000155,Home & Garden Item 155,Home & Garden,BrandC,High-quality home & garden product with excellent features,338.75,72.41,9.0,32x36x18 cm,143,38,SUPP_045,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000156,Sports Item 156,Sports,BrandB,High-quality sports product with excellent features,628.58,40.36,36.07,39x10x25 cm,471,31,SUPP_044,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000157,Health Item 157,Health,BrandC,High-quality health product with excellent features,39.65,383.91,39.02,47x49x6 cm,883,13,SUPP_006,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000158,Clothing Item 158,Clothing,Generic,High-quality clothing product with excellent features,809.88,294.99,4.22,17x35x11 cm,449,78,SUPP_042,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000159,Electronics Item 159,Electronics,Generic,High-quality electronics product with excellent features,750.98,304.41,35.99,27x25x29 cm,688,24,SUPP_033,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000160,Health Item 160,Health,BrandC,High-quality health product with excellent features,268.19,47.1,40.66,43x47x41 cm,552,71,SUPP_019,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000161,Sports Item 161,Sports,BrandA,High-quality sports product with excellent features,159.06,413.06,14.52,44x7x25 cm,388,70,SUPP_003,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000162,Books Item 162,Books,BrandA,High-quality books product with excellent features,53.69,29.18,33.14,20x29x27 cm,651,53,SUPP_006,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000163,Toys Item 163,Toys,BrandE,High-quality toys product with excellent features,282.32,79.23,18.95,12x20x31 cm,152,44,SUPP_033,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000164,Home & Garden Item 164,Home & Garden,BrandC,High-quality home & garden product with excellent features,664.7,186.27,41.1,41x29x7 cm,565,15,SUPP_041,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000165,Electronics Item 165,Electronics,BrandD,High-quality electronics product with excellent features,215.83,208.04,42.82,40x34x44 cm,363,12,SUPP_050,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000166,Clothing Item 166,Clothing,BrandA,High-quality clothing product with excellent features,70.09,401.99,46.41,30x21x38 cm,127,81,SUPP_034,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000167,Home & Garden Item 167,Home & Garden,Generic,High-quality home & garden product with excellent features,735.94,481.27,32.22,40x35x36 cm,901,41,SUPP_034,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000168,Books Item 168,Books,Generic,High-quality books product with excellent features,766.2,266.52,3.3,22x20x14 cm,689,18,SUPP_010,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000169,Sports Item 169,Sports,Generic,High-quality sports product with excellent features,302.19,89.58,28.61,47x47x24 cm,417,48,SUPP_011,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000170,Clothing Item 170,Clothing,BrandD,High-quality clothing product with excellent features,758.9,69.6,36.14,38x32x18 cm,106,49,SUPP_050,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000171,Electronics Item 171,Electronics,BrandD,High-quality electronics product with excellent features,874.7,411.91,14.65,45x29x15 cm,363,57,SUPP_049,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000172,Health Item 172,Health,BrandA,High-quality health product with excellent features,194.71,395.39,36.08,28x26x39 cm,699,33,SUPP_019,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000173,Health Item 173,Health,Generic,High-quality health product with excellent features,33.02,46.88,18.93,31x22x23 cm,525,83,SUPP_034,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000174,Health Item 174,Health,BrandB,High-quality health product with excellent features,733.46,187.34,27.85,37x38x16 cm,850,45,SUPP_022,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000175,Books Item 175,Books,BrandE,High-quality books product with excellent features,833.43,35.46,34.44,7x23x48 cm,654,17,SUPP_019,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000176,Clothing Item 176,Clothing,BrandB,High-quality clothing product with excellent features,216.84,383.7,17.82,38x21x42 cm,322,100,SUPP_008,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000177,Toys Item 177,Toys,BrandB,High-quality toys product with excellent features,808.63,403.94,4.59,50x43x34 cm,538,69,SUPP_047,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000178,Sports Item 178,Sports,BrandA,High-quality sports product with excellent features,610.38,103.32,29.71,45x48x17 cm,504,37,SUPP_009,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000179,Toys Item 179,Toys,BrandC,High-quality toys product with excellent features,999.44,24.41,20.39,7x9x10 cm,940,88,SUPP_049,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000180,Health Item 180,Health,BrandC,High-quality health product with excellent features,991.5,52.18,48.04,31x40x38 cm,913,11,SUPP_001,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000181,Clothing Item 181,Clothing,BrandA,High-quality clothing product with excellent features,997.28,19.55,5.43,31x12x40 cm,130,86,SUPP_034,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000182,Clothing Item 182,Clothing,Generic,High-quality clothing product with excellent features,383.51,238.78,35.17,21x23x43 cm,122,63,SUPP_001,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000183,Books Item 183,Books,BrandC,High-quality books product with excellent features,613.64,176.17,44.31,9x24x43 cm,72,25,SUPP_034,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000184,Electronics Item 184,Electronics,BrandE,High-quality electronics product with excellent features,299.31,119.52,26.54,26x6x42 cm,142,62,SUPP_013,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000185,Health Item 185,Health,Generic,High-quality health product with excellent features,166.09,111.71,30.14,14x9x20 cm,462,45,SUPP_022,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000186,Books Item 186,Books,BrandA,High-quality books product with excellent features,101.29,467.22,34.8,23x13x38 cm,548,62,SUPP_048,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000187,Health Item 187,Health,BrandC,High-quality health product with excellent features,634.16,390.12,16.94,36x30x32 cm,445,15,SUPP_034,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000188,Electronics Item 188,Electronics,Generic,High-quality electronics product with excellent features,137.49,391.25,1.0,7x17x8 cm,532,36,SUPP_024,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000189,Books Item 189,Books,BrandE,High-quality books product with excellent features,97.49,436.26,1.46,14x48x34 cm,74,51,SUPP_048,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000190,Electronics Item 190,Electronics,BrandB,High-quality electronics product with excellent features,769.91,130.74,17.09,8x32x37 cm,563,33,SUPP_028,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000191,Books Item 191,Books,Generic,High-quality books product with excellent features,848.95,215.11,28.11,14x44x18 cm,537,43,SUPP_019,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000192,Electronics Item 192,Electronics,BrandB,High-quality electronics product with excellent features,310.96,279.49,39.71,33x17x26 cm,305,40,SUPP_031,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000193,Books Item 193,Books,BrandA,High-quality books product with excellent features,219.83,324.34,30.76,12x8x11 cm,683,57,SUPP_029,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000194,Sports Item 194,Sports,BrandA,High-quality sports product with excellent features,512.32,496.63,29.08,9x23x23 cm,587,33,SUPP_002,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000195,Home & Garden Item 195,Home & Garden,BrandE,High-quality home & garden product with excellent features,809.24,204.41,29.93,41x44x45 cm,430,89,SUPP_037,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000196,Health Item 196,Health,Generic,High-quality health product with excellent features,303.44,278.59,30.27,43x48x48 cm,779,68,SUPP_006,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000197,Clothing Item 197,Clothing,BrandE,High-quality clothing product with excellent features,785.69,291.74,31.88,41x20x14 cm,338,82,SUPP_007,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000198,Electronics Item 198,Electronics,BrandE,High-quality electronics product with excellent features,888.46,286.89,39.64,17x16x17 cm,110,33,SUPP_050,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000199,Home & Garden Item 199,Home & Garden,BrandB,High-quality home & garden product with excellent features,778.5,217.79,28.24,8x31x44 cm,716,12,SUPP_036,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+PROD_000200,Clothing Item 200,Clothing,BrandD,High-quality clothing product with excellent features,643.83,231.3,20.94,6x46x33 cm,178,37,SUPP_020,True,2025-08-04 19:19:11,2025-08-04 19:19:11

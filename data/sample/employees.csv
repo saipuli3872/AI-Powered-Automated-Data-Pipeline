@@ -1,0 +1,201 @@
+employee_id,first_name,last_name,email,phone,department,position,hire_date,salary,manager_id,is_active,created_at,updated_at
+EMP_000001,Taylor,Jackson,taylor.jackson@company.com,+1-886-778-6927,Operations,Senior Specialist,2019-09-05,55237.54,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000002,Morgan,Anderson,morgan.anderson@company.com,+1-552-517-2930,Marketing,Coordinator,2018-09-02,87756.3,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000003,Casey,White,casey.white@company.com,+1-804-881-6877,Finance,Senior Specialist,2020-08-22,112701.05,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000004,Drew,White,drew.white@company.com,+1-552-516-2192,Customer Service,Senior Specialist,2025-05-05,101797.35,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000005,Jordan,Wilson,jordan.wilson@company.com,+1-984-294-9659,IT,Coordinator,2021-09-25,147852.15,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000006,Morgan,Moore,morgan.moore@company.com,+1-995-373-7531,Finance,Senior Specialist,2022-10-24,104637.23,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000007,Morgan,Anderson,morgan.anderson@company.com,+1-230-952-3690,HR,Senior Specialist,2025-07-01,40716.47,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000008,Drew,White,drew.white@company.com,+1-264-156-2913,Customer Service,Associate,2019-11-11,62226.45,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000009,Taylor,Jackson,taylor.jackson@company.com,+1-226-149-2084,HR,Coordinator,2024-11-18,107327.44,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000010,Jordan,Taylor,jordan.taylor@company.com,+1-844-721-2198,Customer Service,Specialist,2024-11-25,89845.06,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000011,Taylor,Harris,taylor.harris@company.com,+1-857-521-3353,Sales,Specialist,2023-01-14,110125.32,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000012,Alex,Harris,alex.harris@company.com,+1-651-553-5612,HR,Senior Specialist,2024-11-09,118574.69,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000013,Casey,White,casey.white@company.com,+1-981-983-7744,Operations,Senior Specialist,2018-10-28,55091.24,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000014,Jordan,Harris,jordan.harris@company.com,+1-942-740-8768,HR,Manager,2023-09-15,102196.35,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000015,Morgan,Anderson,morgan.anderson@company.com,+1-606-636-9741,IT,Manager,2023-04-28,61828.32,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000016,Taylor,Thompson,taylor.thompson@company.com,+1-335-421-6863,Operations,Senior Specialist,2023-03-29,77921.52,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000017,Jordan,Harris,jordan.harris@company.com,+1-757-181-8606,Sales,Senior Specialist,2015-12-26,149572.19,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000018,Jordan,Thompson,jordan.thompson@company.com,+1-817-267-1007,HR,Manager,2023-01-21,122537.14,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000019,Jamie,Wilson,jamie.wilson@company.com,+1-678-607-9947,Finance,Specialist,2021-04-17,53339.06,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000020,Blake,Thompson,blake.thompson@company.com,+1-883-658-5861,IT,Specialist,2018-11-12,45410.26,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000021,Jamie,Anderson,jamie.anderson@company.com,+1-344-984-7481,IT,Coordinator,2025-01-10,147038.64,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000022,Drew,Taylor,drew.taylor@company.com,+1-491-154-4874,HR,Senior Specialist,2017-11-11,67513.85,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000023,Drew,Harris,drew.harris@company.com,+1-747-210-3322,HR,Associate,2018-01-10,96472.99,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000024,Jordan,Anderson,jordan.anderson@company.com,+1-365-754-2511,HR,Coordinator,2019-07-01,131005.51,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000025,Taylor,Taylor,taylor.taylor@company.com,+1-731-529-3811,Finance,Coordinator,2021-09-11,120800.28,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000026,Blake,Moore,blake.moore@company.com,+1-976-536-4795,Customer Service,Coordinator,2022-10-14,136430.74,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000027,Jamie,White,jamie.white@company.com,+1-229-446-4750,Finance,Associate,2017-03-23,42521.06,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000028,Drew,Thompson,drew.thompson@company.com,+1-664-589-2000,HR,Associate,2022-11-12,139034.38,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000029,Alex,Jackson,alex.jackson@company.com,+1-982-102-7162,Finance,Senior Specialist,2024-07-25,112480.16,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000030,Casey,Moore,casey.moore@company.com,+1-844-457-6372,Operations,Senior Specialist,2024-07-17,149136.59,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000031,Alex,Jackson,alex.jackson@company.com,+1-752-558-2718,Operations,Specialist,2020-12-20,102637.5,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000032,Casey,Thompson,casey.thompson@company.com,+1-784-242-6363,Finance,Associate,2020-05-22,123045.93,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000033,Morgan,Moore,morgan.moore@company.com,+1-640-738-9877,IT,Coordinator,2015-10-11,41778.29,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000034,Casey,Anderson,casey.anderson@company.com,+1-538-917-1555,Finance,Senior Specialist,2018-01-31,132594.03,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000035,Morgan,Taylor,morgan.taylor@company.com,+1-863-233-5884,Finance,Specialist,2016-01-09,120896.72,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000036,Jordan,Taylor,jordan.taylor@company.com,+1-555-562-9940,Finance,Associate,2016-06-04,122629.18,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000037,Blake,Thompson,blake.thompson@company.com,+1-565-283-4854,Finance,Associate,2020-06-28,82954.58,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000038,Casey,Anderson,casey.anderson@company.com,+1-830-562-5503,HR,Manager,2018-08-16,46982.92,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000039,Blake,Harris,blake.harris@company.com,+1-593-654-3456,Customer Service,Coordinator,2019-01-25,140685.01,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000040,Casey,Wilson,casey.wilson@company.com,+1-527-628-4213,HR,Manager,2016-08-23,110763.62,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000041,Alex,White,alex.white@company.com,+1-858-290-4890,IT,Manager,2017-09-17,69625.99,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000042,Jamie,White,jamie.white@company.com,+1-590-845-6437,Operations,Associate,2019-02-16,44214.74,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000043,Casey,Taylor,casey.taylor@company.com,+1-754-280-6613,Customer Service,Specialist,2022-07-02,67632.63,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000044,Blake,White,blake.white@company.com,+1-400-243-6783,Customer Service,Coordinator,2022-03-19,60425.78,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000045,Casey,Taylor,casey.taylor@company.com,+1-600-950-4640,Customer Service,Senior Specialist,2019-05-21,145652.22,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000046,Jamie,White,jamie.white@company.com,+1-368-366-2304,Operations,Specialist,2023-06-02,98634.43,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000047,Blake,Wilson,blake.wilson@company.com,+1-551-498-3747,Finance,Senior Specialist,2020-12-25,144067.12,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000048,Taylor,Jackson,taylor.jackson@company.com,+1-742-722-7062,Sales,Senior Specialist,2015-11-11,149057.22,,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000049,Drew,Jackson,drew.jackson@company.com,+1-574-126-9022,Finance,Specialist,2021-03-06,144453.48,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000050,Alex,Jackson,alex.jackson@company.com,+1-974-599-5707,Customer Service,Specialist,2022-12-30,40836.26,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000051,Jordan,Thompson,jordan.thompson@company.com,+1-315-592-8933,Marketing,Manager,2023-04-12,97369.69,,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000052,Taylor,Taylor,taylor.taylor@company.com,+1-238-188-6967,Marketing,Associate,2022-01-23,49702.8,EMP_000019,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000053,Jordan,Jackson,jordan.jackson@company.com,+1-535-307-2756,Marketing,Senior Specialist,2021-05-28,108131.75,EMP_000014,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000054,Blake,Thompson,blake.thompson@company.com,+1-443-917-7983,HR,Specialist,2024-12-30,41766.24,EMP_000040,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000055,Casey,Thompson,casey.thompson@company.com,+1-490-888-2427,Sales,Specialist,2023-07-10,90229.63,EMP_000040,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000056,Blake,Anderson,blake.anderson@company.com,+1-819-850-3156,Customer Service,Associate,2025-06-08,69885.02,EMP_000009,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000057,Jamie,White,jamie.white@company.com,+1-366-240-6421,Finance,Associate,2020-11-04,46420.61,EMP_000021,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000058,Blake,Harris,blake.harris@company.com,+1-486-405-3745,Marketing,Associate,2017-08-04,77167.96,EMP_000022,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000059,Jamie,White,jamie.white@company.com,+1-572-915-6199,Customer Service,Coordinator,2022-04-13,59555.26,EMP_000009,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000060,Jordan,Thompson,jordan.thompson@company.com,+1-909-538-6444,Sales,Senior Specialist,2015-12-20,40688.33,EMP_000003,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000061,Casey,Taylor,casey.taylor@company.com,+1-581-754-4761,Finance,Senior Specialist,2024-09-11,145430.75,EMP_000009,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000062,Jamie,Jackson,jamie.jackson@company.com,+1-270-313-1091,IT,Specialist,2020-02-14,43716.82,EMP_000014,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000063,Casey,Thompson,casey.thompson@company.com,+1-490-410-5659,Customer Service,Coordinator,2019-08-17,107859.94,EMP_000025,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000064,Casey,Harris,casey.harris@company.com,+1-906-327-7931,HR,Associate,2017-06-11,144440.33,EMP_000042,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000065,Casey,Anderson,casey.anderson@company.com,+1-332-475-9442,Operations,Senior Specialist,2021-05-17,71670.46,EMP_000005,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000066,Casey,Thompson,casey.thompson@company.com,+1-954-236-4119,Customer Service,Manager,2024-02-04,62019.92,EMP_000010,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000067,Morgan,Thompson,morgan.thompson@company.com,+1-260-486-1132,Sales,Coordinator,2022-10-07,85690.48,EMP_000032,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000068,Taylor,Harris,taylor.harris@company.com,+1-553-124-9724,Marketing,Associate,2020-12-24,97054.94,EMP_000006,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000069,Casey,Wilson,casey.wilson@company.com,+1-558-591-8606,IT,Specialist,2017-02-18,147062.56,EMP_000036,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000070,Blake,Wilson,blake.wilson@company.com,+1-588-258-1535,IT,Senior Specialist,2018-07-29,49925.75,EMP_000050,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000071,Drew,Moore,drew.moore@company.com,+1-947-204-7430,Sales,Coordinator,2015-10-07,59981.78,EMP_000029,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000072,Blake,Wilson,blake.wilson@company.com,+1-264-568-4523,Marketing,Associate,2016-09-06,118891.38,EMP_000014,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000073,Alex,Jackson,alex.jackson@company.com,+1-386-276-3542,Finance,Coordinator,2018-08-13,63550.83,EMP_000027,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000074,Jordan,White,jordan.white@company.com,+1-534-773-2234,Operations,Specialist,2022-11-11,100845.0,EMP_000010,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000075,Casey,Jackson,casey.jackson@company.com,+1-868-472-5006,Customer Service,Coordinator,2015-12-01,138397.38,EMP_000014,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000076,Morgan,Taylor,morgan.taylor@company.com,+1-627-225-9013,Operations,Associate,2017-03-30,121802.6,EMP_000032,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000077,Casey,White,casey.white@company.com,+1-496-353-1320,Finance,Specialist,2022-08-01,135197.65,EMP_000037,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000078,Jordan,Wilson,jordan.wilson@company.com,+1-657-718-8189,Sales,Senior Specialist,2019-02-09,59176.36,EMP_000005,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000079,Alex,Jackson,alex.jackson@company.com,+1-452-782-8676,Customer Service,Coordinator,2019-12-06,119064.11,EMP_000014,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000080,Jamie,Wilson,jamie.wilson@company.com,+1-793-671-9502,Marketing,Senior Specialist,2023-11-02,43088.62,EMP_000044,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000081,Casey,Jackson,casey.jackson@company.com,+1-606-846-1889,Finance,Senior Specialist,2023-07-27,44142.28,EMP_000003,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000082,Blake,Harris,blake.harris@company.com,+1-731-615-9288,Customer Service,Coordinator,2020-08-05,78424.42,EMP_000014,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000083,Jamie,Wilson,jamie.wilson@company.com,+1-442-752-9765,HR,Manager,2016-07-21,132163.99,EMP_000049,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000084,Taylor,Anderson,taylor.anderson@company.com,+1-484-409-4871,HR,Manager,2016-05-17,102993.25,EMP_000037,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000085,Jordan,Harris,jordan.harris@company.com,+1-268-455-3670,Marketing,Coordinator,2015-10-13,50292.62,EMP_000050,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000086,Casey,Jackson,casey.jackson@company.com,+1-879-124-2515,IT,Senior Specialist,2020-02-25,70490.26,EMP_000048,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000087,Alex,Moore,alex.moore@company.com,+1-205-690-7808,HR,Manager,2023-02-25,115545.09,EMP_000032,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000088,Jordan,Wilson,jordan.wilson@company.com,+1-607-149-3472,Operations,Senior Specialist,2024-03-19,62797.02,EMP_000008,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000089,Drew,Harris,drew.harris@company.com,+1-970-776-3287,Sales,Manager,2018-09-19,124851.46,EMP_000044,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000090,Jordan,Thompson,jordan.thompson@company.com,+1-591-512-2712,Marketing,Senior Specialist,2025-01-15,53305.25,EMP_000047,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000091,Blake,Wilson,blake.wilson@company.com,+1-940-451-9669,Customer Service,Associate,2022-09-21,61774.65,EMP_000040,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000092,Alex,Taylor,alex.taylor@company.com,+1-785-297-8068,HR,Specialist,2023-03-05,98976.33,EMP_000043,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000093,Blake,Taylor,blake.taylor@company.com,+1-995-633-2697,Marketing,Specialist,2023-07-15,51050.45,EMP_000019,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000094,Drew,Wilson,drew.wilson@company.com,+1-545-980-1143,Finance,Specialist,2024-01-01,56514.09,EMP_000019,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000095,Casey,Anderson,casey.anderson@company.com,+1-805-298-7008,IT,Associate,2016-02-04,127007.32,EMP_000048,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000096,Taylor,Jackson,taylor.jackson@company.com,+1-331-897-9135,Customer Service,Manager,2016-10-21,50688.49,EMP_000030,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000097,Casey,Taylor,casey.taylor@company.com,+1-395-534-6882,Finance,Specialist,2019-06-17,80335.97,EMP_000020,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000098,Taylor,Anderson,taylor.anderson@company.com,+1-465-176-3558,Sales,Senior Specialist,2020-02-09,142320.38,EMP_000028,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000099,Jamie,Wilson,jamie.wilson@company.com,+1-690-336-9107,IT,Manager,2023-08-24,105897.35,EMP_000004,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000100,Jordan,White,jordan.white@company.com,+1-636-982-1366,HR,Senior Specialist,2024-01-20,53913.11,EMP_000019,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000101,Jamie,Jackson,jamie.jackson@company.com,+1-467-984-3598,Customer Service,Manager,2023-01-09,117132.11,EMP_000019,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000102,Taylor,Anderson,taylor.anderson@company.com,+1-327-117-6950,HR,Associate,2019-03-08,140562.72,EMP_000041,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000103,Jamie,White,jamie.white@company.com,+1-515-737-2063,IT,Associate,2018-11-22,114477.53,EMP_000023,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000104,Morgan,White,morgan.white@company.com,+1-376-352-5116,HR,Manager,2023-12-23,132044.72,EMP_000017,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000105,Drew,Anderson,drew.anderson@company.com,+1-313-145-1973,Customer Service,Manager,2016-07-27,126196.07,EMP_000008,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000106,Taylor,Anderson,taylor.anderson@company.com,+1-954-911-7759,Finance,Senior Specialist,2024-05-20,89425.84,EMP_000018,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000107,Blake,Wilson,blake.wilson@company.com,+1-633-628-1698,Finance,Manager,2019-09-18,50717.12,EMP_000047,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000108,Blake,Thompson,blake.thompson@company.com,+1-351-706-1499,Customer Service,Manager,2021-09-01,117473.41,EMP_000030,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000109,Taylor,Anderson,taylor.anderson@company.com,+1-618-563-2665,Marketing,Manager,2020-04-30,118388.34,EMP_000022,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000110,Alex,Taylor,alex.taylor@company.com,+1-569-643-5514,HR,Specialist,2023-04-10,128112.93,EMP_000012,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000111,Taylor,Anderson,taylor.anderson@company.com,+1-217-678-8128,Marketing,Specialist,2019-07-20,134534.5,EMP_000044,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000112,Blake,White,blake.white@company.com,+1-920-539-5157,HR,Manager,2023-03-21,53254.6,EMP_000001,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000113,Taylor,Moore,taylor.moore@company.com,+1-821-512-3565,Customer Service,Associate,2022-08-29,132216.38,EMP_000026,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000114,Casey,Thompson,casey.thompson@company.com,+1-561-699-2049,Finance,Senior Specialist,2016-03-12,55204.42,EMP_000031,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000115,Alex,Anderson,alex.anderson@company.com,+1-472-512-7796,HR,Manager,2022-01-10,146158.9,EMP_000041,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000116,Jordan,Thompson,jordan.thompson@company.com,+1-251-557-8956,Operations,Associate,2024-02-12,140532.23,EMP_000003,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000117,Morgan,Moore,morgan.moore@company.com,+1-756-886-2113,Customer Service,Coordinator,2017-01-07,116992.73,EMP_000046,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000118,Alex,Jackson,alex.jackson@company.com,+1-455-783-2077,IT,Senior Specialist,2025-01-13,68107.39,EMP_000039,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000119,Morgan,Harris,morgan.harris@company.com,+1-604-902-9670,HR,Senior Specialist,2018-03-30,47163.05,EMP_000030,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000120,Jordan,White,jordan.white@company.com,+1-591-717-5794,Sales,Associate,2021-03-24,145099.73,EMP_000010,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000121,Blake,Taylor,blake.taylor@company.com,+1-250-596-8862,Finance,Specialist,2022-09-23,65662.88,EMP_000012,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000122,Drew,Wilson,drew.wilson@company.com,+1-415-854-9444,Operations,Coordinator,2018-11-02,71801.65,EMP_000037,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000123,Blake,Anderson,blake.anderson@company.com,+1-268-828-5327,Marketing,Associate,2016-01-01,148684.97,EMP_000043,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000124,Alex,Moore,alex.moore@company.com,+1-678-152-9447,HR,Coordinator,2016-01-16,58868.1,EMP_000006,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000125,Alex,Wilson,alex.wilson@company.com,+1-876-781-1449,Operations,Specialist,2024-06-11,133458.13,EMP_000035,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000126,Taylor,Jackson,taylor.jackson@company.com,+1-900-818-9404,Finance,Coordinator,2016-10-05,104318.42,EMP_000010,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000127,Jordan,Harris,jordan.harris@company.com,+1-222-848-9806,Finance,Coordinator,2022-04-06,142058.37,EMP_000033,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000128,Jordan,White,jordan.white@company.com,+1-466-411-9767,Marketing,Senior Specialist,2017-01-04,53226.72,EMP_000023,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000129,Blake,Jackson,blake.jackson@company.com,+1-648-111-9832,Marketing,Manager,2016-05-28,42826.22,EMP_000035,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000130,Drew,Harris,drew.harris@company.com,+1-527-584-2535,Customer Service,Senior Specialist,2016-01-25,60780.58,EMP_000037,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000131,Morgan,White,morgan.white@company.com,+1-293-882-2376,Marketing,Coordinator,2019-11-28,114177.45,EMP_000038,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000132,Casey,White,casey.white@company.com,+1-773-616-3464,HR,Associate,2019-01-09,143759.72,EMP_000043,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000133,Alex,Taylor,alex.taylor@company.com,+1-244-702-6810,Marketing,Manager,2022-08-11,139519.37,EMP_000006,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000134,Jordan,Jackson,jordan.jackson@company.com,+1-637-145-9099,Finance,Senior Specialist,2023-07-11,93625.75,EMP_000044,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000135,Jamie,White,jamie.white@company.com,+1-562-209-8540,Finance,Associate,2023-06-22,72213.49,EMP_000003,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000136,Morgan,White,morgan.white@company.com,+1-592-659-5073,Operations,Specialist,2018-08-26,87223.91,EMP_000018,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000137,Morgan,Wilson,morgan.wilson@company.com,+1-266-554-1190,Marketing,Coordinator,2021-09-20,51243.06,EMP_000010,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000138,Jamie,Moore,jamie.moore@company.com,+1-845-516-5509,Finance,Coordinator,2024-02-09,40037.76,EMP_000037,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000139,Morgan,White,morgan.white@company.com,+1-745-813-9221,Marketing,Coordinator,2025-01-18,136836.77,EMP_000009,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000140,Drew,Harris,drew.harris@company.com,+1-354-870-9637,HR,Coordinator,2019-01-20,47496.48,EMP_000002,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000141,Jordan,Taylor,jordan.taylor@company.com,+1-275-319-2850,Finance,Senior Specialist,2021-07-01,112729.92,EMP_000039,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000142,Taylor,White,taylor.white@company.com,+1-310-338-4495,HR,Associate,2025-07-04,77590.19,EMP_000016,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000143,Morgan,Jackson,morgan.jackson@company.com,+1-769-623-2546,HR,Specialist,2016-10-07,131306.47,EMP_000002,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000144,Jamie,Taylor,jamie.taylor@company.com,+1-968-409-9119,Marketing,Specialist,2024-02-11,107790.76,EMP_000028,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000145,Alex,Moore,alex.moore@company.com,+1-913-396-5482,Sales,Coordinator,2020-11-03,84227.12,EMP_000005,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000146,Blake,Thompson,blake.thompson@company.com,+1-990-628-3077,Operations,Specialist,2018-11-04,99206.42,EMP_000049,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000147,Alex,White,alex.white@company.com,+1-672-953-3383,Sales,Specialist,2024-08-13,88713.61,EMP_000027,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000148,Taylor,Jackson,taylor.jackson@company.com,+1-837-289-7463,Operations,Associate,2022-07-16,100050.65,EMP_000040,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000149,Drew,Harris,drew.harris@company.com,+1-519-618-7244,Finance,Specialist,2017-10-15,138177.55,EMP_000006,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000150,Jamie,Taylor,jamie.taylor@company.com,+1-521-922-1807,Sales,Manager,2018-08-18,54824.45,EMP_000039,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000151,Alex,Harris,alex.harris@company.com,+1-569-352-7250,Operations,Manager,2021-07-28,52472.74,EMP_000031,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000152,Drew,Anderson,drew.anderson@company.com,+1-432-952-9811,Customer Service,Coordinator,2016-06-15,83437.43,EMP_000027,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000153,Taylor,White,taylor.white@company.com,+1-926-763-3060,Sales,Coordinator,2019-01-06,68589.59,EMP_000024,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000154,Drew,Harris,drew.harris@company.com,+1-207-150-1405,Finance,Coordinator,2022-02-18,128769.29,EMP_000020,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000155,Casey,Anderson,casey.anderson@company.com,+1-500-485-7144,Operations,Specialist,2016-09-13,139333.26,EMP_000036,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000156,Drew,Harris,drew.harris@company.com,+1-620-151-6355,Customer Service,Associate,2022-07-28,57801.22,EMP_000020,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000157,Drew,Jackson,drew.jackson@company.com,+1-701-874-8259,IT,Coordinator,2025-03-08,102833.12,EMP_000020,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000158,Taylor,Moore,taylor.moore@company.com,+1-718-924-1473,HR,Senior Specialist,2022-10-16,134274.11,EMP_000024,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000159,Drew,White,drew.white@company.com,+1-333-974-4019,Customer Service,Associate,2021-09-26,117065.83,EMP_000004,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000160,Drew,Jackson,drew.jackson@company.com,+1-818-722-6685,Marketing,Manager,2025-05-29,116427.18,EMP_000044,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000161,Casey,Wilson,casey.wilson@company.com,+1-321-279-3492,IT,Senior Specialist,2016-12-18,127801.11,EMP_000028,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000162,Blake,Taylor,blake.taylor@company.com,+1-610-237-6177,Finance,Manager,2021-02-18,43052.38,EMP_000006,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000163,Morgan,Thompson,morgan.thompson@company.com,+1-294-481-9247,Customer Service,Specialist,2019-07-13,127657.01,EMP_000041,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000164,Alex,Anderson,alex.anderson@company.com,+1-978-649-1245,Sales,Associate,2018-11-28,96789.74,EMP_000026,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000165,Blake,Wilson,blake.wilson@company.com,+1-400-995-2296,Marketing,Coordinator,2018-10-31,137072.64,EMP_000023,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000166,Alex,Taylor,alex.taylor@company.com,+1-656-238-7693,Customer Service,Specialist,2015-12-13,58052.09,EMP_000028,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000167,Casey,Thompson,casey.thompson@company.com,+1-368-154-4340,Finance,Specialist,2022-12-11,120895.73,EMP_000031,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000168,Taylor,White,taylor.white@company.com,+1-554-813-7322,Customer Service,Coordinator,2024-12-21,90732.47,EMP_000023,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000169,Jamie,Taylor,jamie.taylor@company.com,+1-726-279-6075,Marketing,Manager,2017-12-23,101324.13,EMP_000049,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000170,Jamie,Taylor,jamie.taylor@company.com,+1-570-916-5396,Sales,Manager,2017-12-06,143903.0,EMP_000017,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000171,Jamie,Taylor,jamie.taylor@company.com,+1-867-578-6546,Operations,Senior Specialist,2015-10-04,61649.03,EMP_000005,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000172,Casey,Moore,casey.moore@company.com,+1-357-830-8331,IT,Coordinator,2018-08-13,124188.5,EMP_000047,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000173,Jordan,Harris,jordan.harris@company.com,+1-648-892-7523,Customer Service,Senior Specialist,2022-10-15,113094.79,EMP_000042,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000174,Blake,Wilson,blake.wilson@company.com,+1-231-296-9829,HR,Senior Specialist,2016-04-26,48005.36,EMP_000031,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000175,Alex,Anderson,alex.anderson@company.com,+1-268-721-7341,Marketing,Manager,2022-08-26,76184.64,EMP_000041,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000176,Alex,White,alex.white@company.com,+1-823-911-4760,IT,Coordinator,2019-11-14,131271.79,EMP_000018,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000177,Jamie,Moore,jamie.moore@company.com,+1-512-112-1585,Customer Service,Manager,2019-09-27,47603.59,EMP_000026,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000178,Blake,Taylor,blake.taylor@company.com,+1-726-168-7962,IT,Senior Specialist,2022-05-20,67951.29,EMP_000043,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000179,Morgan,Taylor,morgan.taylor@company.com,+1-637-154-9711,Marketing,Coordinator,2015-08-27,79779.49,EMP_000005,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000180,Taylor,Harris,taylor.harris@company.com,+1-921-903-2755,Sales,Specialist,2022-10-23,110801.43,EMP_000008,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000181,Blake,Taylor,blake.taylor@company.com,+1-751-852-7324,Customer Service,Coordinator,2019-02-21,103720.77,EMP_000038,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000182,Alex,Taylor,alex.taylor@company.com,+1-522-592-3176,Customer Service,Associate,2024-05-03,70166.49,EMP_000029,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000183,Morgan,White,morgan.white@company.com,+1-438-137-2467,Customer Service,Coordinator,2019-06-14,122246.89,EMP_000025,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000184,Casey,Taylor,casey.taylor@company.com,+1-335-308-4709,Finance,Associate,2023-09-08,97360.98,EMP_000016,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000185,Casey,Thompson,casey.thompson@company.com,+1-861-775-9191,Sales,Associate,2016-05-07,57282.8,EMP_000037,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000186,Casey,Anderson,casey.anderson@company.com,+1-928-691-4474,Marketing,Senior Specialist,2024-02-25,44926.03,EMP_000008,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000187,Casey,Moore,casey.moore@company.com,+1-379-102-1266,Sales,Coordinator,2021-03-08,90744.0,EMP_000025,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000188,Alex,Anderson,alex.anderson@company.com,+1-720-961-8878,Operations,Associate,2024-02-23,41232.45,EMP_000006,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000189,Taylor,Jackson,taylor.jackson@company.com,+1-592-915-2522,IT,Manager,2017-05-21,65875.5,EMP_000036,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000190,Jamie,Moore,jamie.moore@company.com,+1-856-187-9361,Customer Service,Manager,2016-09-10,93084.66,EMP_000027,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000191,Taylor,Jackson,taylor.jackson@company.com,+1-516-518-6183,Customer Service,Manager,2025-02-13,40401.49,EMP_000047,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000192,Blake,White,blake.white@company.com,+1-386-103-7063,Customer Service,Specialist,2021-10-25,144774.66,EMP_000038,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000193,Blake,Thompson,blake.thompson@company.com,+1-539-120-1754,HR,Associate,2018-01-06,82892.75,EMP_000018,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000194,Jordan,Anderson,jordan.anderson@company.com,+1-862-502-7077,IT,Manager,2017-07-24,49932.59,EMP_000015,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000195,Alex,Harris,alex.harris@company.com,+1-754-431-2647,HR,Coordinator,2016-05-03,141463.43,EMP_000038,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000196,Blake,Anderson,blake.anderson@company.com,+1-735-729-1246,IT,Coordinator,2016-12-26,61411.21,EMP_000027,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000197,Morgan,Wilson,morgan.wilson@company.com,+1-586-647-7639,Marketing,Associate,2018-09-15,90502.47,EMP_000001,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000198,Drew,Thompson,drew.thompson@company.com,+1-683-641-8951,Customer Service,Coordinator,2024-09-11,80049.28,EMP_000024,False,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000199,Casey,Jackson,casey.jackson@company.com,+1-664-964-2270,Finance,Associate,2021-04-13,42571.1,EMP_000039,True,2025-08-04 19:19:11,2025-08-04 19:19:11
+EMP_000200,Casey,Anderson,casey.anderson@company.com,+1-289-235-8071,Operations,Specialist,2020-05-31,133419.71,EMP_000041,True,2025-08-04 19:19:11,2025-08-04 19:19:11
