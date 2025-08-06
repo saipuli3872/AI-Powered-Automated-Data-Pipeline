@@ -26,9 +26,7 @@ __license__ = "MIT"
 
 # Import main components
 from . import core
-from . import agents  
-from . import connectors
-from . import utils
+from .core.data_vault_generator import DataVaultGenerator
 
 # Package metadata
 __all__ = [

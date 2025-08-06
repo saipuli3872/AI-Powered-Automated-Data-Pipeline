@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/ai_automated_data_pipeline.egg-info/PKG-INFO
+src/ai_automated_data_pipeline.egg-info/SOURCES.txt
+src/ai_automated_data_pipeline.egg-info/dependency_links.txt
+src/ai_automated_data_pipeline.egg-info/entry_points.txt
+src/ai_automated_data_pipeline.egg-info/not-zip-safe
+src/ai_automated_data_pipeline.egg-info/requires.txt
+src/ai_automated_data_pipeline.egg-info/top_level.txt
+src/ai_pipeline/__init__.py
+tests/test_foundation.py
