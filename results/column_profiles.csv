@@ -1,0 +1,18 @@
+column_name,data_type,is_primary_key,is_business_key,foreign_key_references,pii_level,unique_ratio,sample_values
+customer_id,identifier,True,False,first_name|last_name|email|phone|address|city|state|zip_code|date_of_birth|registration_date|customer_segment|credit_score|annual_income|is_active|created_at|updated_at,none,1.0,CUST_000994|CUST_000860|CUST_000299
+first_name,text,False,True,created_at|updated_at,low,0.015,Jane|Emily|Daniel
+last_name,text,False,True,created_at|updated_at,low,0.013,Martinez|Williams|Brown
+email,text,False,False,first_name|last_name|state|created_at|updated_at,high,0.998,jane.martinez906@gmail.com|emily.williams67@gmail.com|daniel.brown416@outlook.com
+phone,text,False,False,customer_id|first_name|last_name|email|address|city|state|zip_code|date_of_birth|registration_date|customer_segment|credit_score|annual_income|is_active|created_at|updated_at,none,1.0,+1-231-734-1819|+1-411-691-8555|+1-553-598-8898
+address,text,False,False,is_active|created_at|updated_at,medium,0.994,184 First St|7524 Oak St|9900 Main St
+city,text,False,True,state|created_at|updated_at,medium,0.01,Los Angeles|Phoenix|Dallas
+state,text,False,True,created_at|updated_at,none,0.006,CA|AZ|TX
+zip_code,numeric,False,True,created_at|updated_at,low,0.993,10001|99610|75776
+date_of_birth,date,False,False,created_at|updated_at,none,0.977,1980-05-19|1953-06-26|1995-02-20
+registration_date,date,False,False,created_at|updated_at,none,0.65,2023-02-04|2023-02-07|2023-02-15
+customer_segment,text,False,True,created_at|updated_at,none,0.004,VIP|Standard|Standard
+credit_score,numeric,False,False,created_at|updated_at,none,0.459,463|481|535
+annual_income,numeric,False,False,customer_id|first_name|last_name|email|phone|address|city|state|zip_code|date_of_birth|registration_date|customer_segment|credit_score|is_active|created_at|updated_at,none,1.0,42015.72|195240.93|38490.44
+is_active,boolean,False,False,created_at|updated_at,none,0.002,False|True|False
+created_at,text,False,True,updated_at,none,0.001,2025-08-04 19:19:11|2025-08-04 19:19:11|2025-08-04 19:19:11
+updated_at,date,False,False,created_at,none,0.001,2025-08-04 19:19:11|2025-08-04 19:19:11|2025-08-04 19:19:11

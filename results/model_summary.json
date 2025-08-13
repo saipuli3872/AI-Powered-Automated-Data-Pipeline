@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "model_name": "CustomerVault",
+    "generated_at": "2025-08-11T19:40:04.873262",
+    "input_file": "customers.csv",
+    "total_columns": 17
+  },
+  "hubs": [
+    {
+      "name": "CUSTOMER_ID",
+      "business_keys": [
+        "customer_id"
+      ]
+    },
+    {
+      "name": "FIRST_NAME",
+      "business_keys": [
+        "first_name"
+      ]
+    },
+    {
+      "name": "LAST_NAME",
+      "business_keys": [
+        "last_name"
+      ]
+    },
+    {
+      "name": "CITY",
+      "business_keys": [
+        "city"
+      ]
+    },
+    {
+      "name": "STATE",
+      "business_keys": [
+        "state"
+      ]
+    },
+    {
+      "name": "ZIP_CODE",
+      "business_keys": [
+        "zip_code"
+      ]
+    },
+    {
+      "name": "CUSTOMER_SEGMENT",
+      "business_keys": [
+        "customer_segment"
+      ]
+    },
+    {
+      "name": "CREATED_AT",
+      "business_keys": [
+        "created_at"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "name": "ADDRESS_ANNUAL_INCOME_CITY_CREATED_AT_CREDIT_SCORE_CUSTOMER_ID_CUSTOMER_SEGMENT_DATE_OF_BIRTH_EMAIL_FIRST_NAME_IS_ACTIVE_LAST_NAME_PHONE_REGISTRATION_DATE_STATE_UPDATED_AT_ZIP_CODE",
+      "hub_references": [
+        "ADDRESS",
+        "ANNUAL_INCOME",
+        "CITY",
+        "CREATED_AT",
+        "CREDIT_SCORE",
+        "CUSTOMER_ID",
+        "CUSTOMER_SEGMENT",
+        "DATE_OF_BIRTH",
+        "EMAIL",
+        "FIRST_NAME",
+        "IS_ACTIVE",
+        "LAST_NAME",
+        "PHONE",
+        "REGISTRATION_DATE",
+        "STATE",
+        "UPDATED_AT",
+        "ZIP_CODE"
+      ]
+    },
+    {
+      "name": "CREATED_AT_FIRST_NAME_UPDATED_AT",
+      "hub_references": [
+        "CREATED_AT",
+        "FIRST_NAME",
+        "UPDATED_AT"
+      ]
+    },
+    {
+      "name": "CREATED_AT_LAST_NAME_UPDATED_AT",
+      "hub_references": [
+        "CREATED_AT",
+        "LAST_NAME",
+        "UPDATED_AT"
+      ]
+    },
+    {
+      "name": "CREATED_AT_EMAIL_FIRST_NAME_LAST_NAME_STATE_UPDATED_AT",
+      "hub_references": [
+        "CREATED_AT",
+        "EMAIL",
+        "FIRST_NAME",
+        "LAST_NAME",
+        "STATE",
+        "UPDATED_AT"
+      ]
+    },
+    {
+      "name": "ADDRESS_CREATED_AT_IS_ACTIVE_UPDATED_AT",
+      "hub_references": [
+        "ADDRESS",
+        "CREATED_AT",
+        "IS_ACTIVE",
+        "UPDATED_AT"
+      ]
+    },
+    {
+      "name": "CITY_CREATED_AT_STATE_UPDATED_AT",
+      "hub_references": [
+        "CITY",
+        "CREATED_AT",
+        "STATE",
+        "UPDATED_AT"
+      ]
+    },
+    {
+      "name": "CREATED_AT_STATE_UPDATED_AT",
+      "hub_references": [
+        "CREATED_AT",
+        "STATE",
+        "UPDATED_AT"
+      ]
+    },
+    {
+      "name": "CREATED_AT_UPDATED_AT_ZIP_CODE",
+      "hub_references": [
+        "CREATED_AT",
+        "UPDATED_AT",
+        "ZIP_CODE"
+      ]
+    },
+    {
+      "name": "CREATED_AT_DATE_OF_BIRTH_UPDATED_AT",
+      "hub_references": [
+        "CREATED_AT",
+        "DATE_OF_BIRTH",
+        "UPDATED_AT"
+      ]
+    },
+    {
+      "name": "CREATED_AT_REGISTRATION_DATE_UPDATED_AT",
+      "hub_references": [
+        "CREATED_AT",
+        "REGISTRATION_DATE",
+        "UPDATED_AT"
+      ]
+    },
+    {
+      "name": "CREATED_AT_CUSTOMER_SEGMENT_UPDATED_AT",
+      "hub_references": [
+        "CREATED_AT",
+        "CUSTOMER_SEGMENT",
+        "UPDATED_AT"
+      ]
+    },
+    {
+      "name": "CREATED_AT_CREDIT_SCORE_UPDATED_AT",
+      "hub_references": [
+        "CREATED_AT",
+        "CREDIT_SCORE",
+        "UPDATED_AT"
+      ]
+    },
+    {
+      "name": "CREATED_AT_IS_ACTIVE_UPDATED_AT",
+      "hub_references": [
+        "CREATED_AT",
+        "IS_ACTIVE",
+        "UPDATED_AT"
+      ]
+    },
+    {
+      "name": "CREATED_AT_UPDATED_AT",
+      "hub_references": [
+        "CREATED_AT",
+        "UPDATED_AT"
+      ]
+    }
+  ],
+  "satellites": []
+}

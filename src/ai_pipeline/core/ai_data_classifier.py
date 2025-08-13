@@ -84,33 +84,13 @@ class AIDataClassifier:
         )
 
     def _detect_foreign_keys(self, df: pd.DataFrame, col: str, sample: pd.Series) -> List[str]:
-        """Enhanced foreign key detection using multiple heuristics"""
+        """Simplified FK detection - only exact name matches"""
         references = []
         
+        # Only detect very obvious foreign key patterns
         for other_col in df.columns:
-            if other_col == col:
-                continue
-                
-            # Heuristic 1: Name similarity
-            if re.search(rf"{other_col}$", col, re.IGNORECASE):
-                references.append(other_col)
-                continue
-            
-            # Heuristic 2: Value overlap analysis
-            other_sample = df[other_col].dropna().astype(str)
-            if len(other_sample) > 0 and len(sample) > 0:
-                overlap_ratio = len(set(sample) & set(other_sample)) / len(set(sample))
-                
-                # High overlap suggests foreign key relationship
-                if overlap_ratio > 0.7:
-                    references.append(other_col)
-                    continue
-            
-            # Heuristic 3: Cardinality relationship
-            if len(other_sample) > 0 and sample.nunique() >= other_sample.nunique() * 0.8:
-                # Check if this could be a many-to-one relationship
-                unique_pairs = df[[col, other_col]].drop_duplicates()
-                if len(unique_pairs) == sample.nunique():
+            if other_col != col and col.endswith("_id") and other_col.endswith("_id"):
+                if col.replace("_id", "") in other_col:
                     references.append(other_col)
         
         return references
